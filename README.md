@@ -105,8 +105,11 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 ⚡ **Power-Ups:** _Portales de cambio de gravedad, aceleradores, plataformas de salto._
 
 ![gravityDown](resources/portals/gravityDown.png) ![gravityUp](resources/portals/gravityUp.png)
+
 ![portalCube](resources/portals/portalCube.png)![portalWave](resources/portals/portalWave.png)
+
 ![blueJumpRing](resources/rings/blueJumpRing.png)![yellowJumpRing](resources/rings/yellowJumpRing.png)
+
 ![blueStool](resources/stools/blueStool.png)![yellowStool](resources/stools/yellowStool.png)
 
 ---

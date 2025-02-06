@@ -1,7 +1,7 @@
 const player = document.getElementById("player");
 const pauseButton = document.getElementById("pauseButton");
-const backgroundMusic = new Audio("resources/sound.mp3");
-const explosionSound = new Audio("resources/explosion.mp3");
+const backgroundMusic = new Audio("resources/sound/sound.mp3");
+const explosionSound = new Audio("resources/sound/explosion.mp3");
 const progressBar = document.querySelector(".progress-bar");
 const progressText = document.querySelector(".progress-text");
 
@@ -137,7 +137,7 @@ function triggerExplosion() {
   explosionSound.play();
 
   const originalImage = player.style.backgroundImage;
-  player.style.backgroundImage = 'url("resources/explosion.gif")';
+  player.style.backgroundImage = 'url("resources/videos/explosion.gif")';
   player.style.width = "100px";
   player.style.height = "100px";
   player.style.position = "absolute";

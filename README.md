@@ -5,11 +5,11 @@
 ## <!-- https://en.namu.wiki/w/Geometry%20Dash/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EB%9E%8C -->
 
 ![icon](resources/icon.png)
+![logo](resources/logo.png)
 
 ## 📌 **1. Portada**
 
 **🎮 Nombre del Juego:** _Neo Dash_  
-**🖼️ Logo:** _(Ver imagen oficial del juego)_  
 **🎭 Género del Juego:** _Plataformas, Ritmo_  
 **👤 Autor:** _Adrian Camilo Tuta_  
 **📧 Contacto:** _camilotuta2004@gmail.com_  
@@ -24,7 +24,7 @@
 
 ### 🎭 Historia
 
-_No tiene una historia definida, el objetivo es superar niveles saltando y esquivando obstáculos sincronizados con la música._
+_Neo Dash no tiene una historia definida, el objetivo es superar niveles saltando y esquivando obstáculos sincronizados con la música._
 
 ### 🎮 Gameplay
 
@@ -38,8 +38,15 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 
 - 📈 **Progresión del Personaje:** _No hay progresión de personaje, solo habilidades del jugador._
 - 🎯 **Dificultad Progresiva:** _Los niveles son cada vez más desafiantes y requieren reflejos más precisos._
+
+![dificultades](image.png)
+
 - 🔄 **Sistemas de Juego:** _Sistema de niveles, logros y recompensas._
+
+![coinGold](resources/coins/coinGold.png) ![coin](resources/coins/coin.png)
+
 - 🏆 **Recompensas:** _Íconos y colores personalizados._
+![cubos](/resources/cubes/cubos.png)
 
 ---
 
@@ -48,7 +55,7 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 ### 👤 Personaje Principal
 
 🖌️ **Diseño:** _Un cubo personalizable con diferentes apariencias._  
-🎮 **Controles:** _Los botones establecidos para saltar con espacio, flecha hacia arriba y click izquierdo del mouse para saltar (o mantener presionado para volar en algunos modos)._  
+🎮 **Controles:** _Los botones establecidos para saltar con espacio, flecha hacia arriba y click izquierdo del mouse para saltar (o mantener presionado para volar con la nave)._  
 ⚡ **Movimientos Únicos:** _Saltar, cambiar de gravedad, volar en nave, rebotar en trampolines._  
 🕹️ **Esquema de Controles:**
 
@@ -102,6 +109,8 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 ## ⚙️ **8. Mecánicas y Power-Ups**
 
 🔄 **Mecánicas:** _Saltar, cambiar de gravedad, volar en nave._  
+![cube](resources/cubes/player.png)
+![nave](resources/cubes/wave.png)
 ⚡ **Power-Ups:** _Portales de cambio de gravedad, aceleradores, plataformas de salto._
 
 ![gravityDown](resources/portals/gravityDown.png) ![gravityUp](resources/portals/gravityUp.png)

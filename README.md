@@ -4,8 +4,15 @@
 
 ## <!-- https://en.namu.wiki/w/Geometry%20Dash/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EB%9E%8C -->
 
-![icon](resources/icon.png)
-![logo](resources/logo.png)
+<p align="center">
+  <img src="resources/icon.png" alt="GreenOps Logo" width="200"/>
+</p>
+<p align="center">
+  <img src="resources/logo.png" alt="GreenOps Logo" width="800"/>
+</p>
+
+<!-- ![icon](resources/icon.png)
+![logo](resources/logo.png) -->
 
 ## 📌 **1. Portada**
 
@@ -43,7 +50,13 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 
 - 🔄 **Sistemas de Juego:** _Sistema de niveles, logros y recompensas._
 
-![coinGold](resources/coins/coinGold.png) ![coin](resources/coins/coin.png)
+<p >
+  <img src="resources/coins/coinGold.png" alt="GreenOps Logo" width="400"/>
+  <img  src="resources/coins/coin.png" alt="GreenOps Logo" width="250"/>
+</p>
+
+<!-- ![coinGold](resources/coins/coinGold.png) 
+![coin](resources/coins/coin.png) -->
 
 - 🏆 **Recompensas:** _Íconos y colores personalizados._
 ![cubos](/resources/cubes/cubos.png)
@@ -63,7 +76,15 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 [Un solo botón para interactuar con el juego]
 ```
 
-![left-click](resources/controls/leftClick.png)![up](resources/controls/teclaUp.png) ![space](resources/controls/spaceBar.png)
+<p >
+  <img src="resources/controls/leftClick.png" alt="GreenOps Logo" width="150"/>
+  
+  <img src="resources/controls/teclaUp.png" alt="GreenOps Logo" width="200"/>
+
+  <img src="resources/controls/spaceBar.png" alt="GreenOps Logo" width="300"/>
+</p>
+
+<!-- ![left-click](resources/controls/leftClick.png)![up](resources/controls/teclaUp.png) ![space](resources/controls/spaceBar.png) -->
 
 ---
 
@@ -109,17 +130,43 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 ## ⚙️ **8. Mecánicas y Power-Ups**
 
 🔄 **Mecánicas:** _Saltar, cambiar de gravedad, volar en nave._  
-![cube](resources/cubes/player.png)
-![nave](resources/cubes/wave.png)
+
+<p align="center">
+  <img src="resources/cubes/player.png" alt="GreenOps Logo" width="150"/>
+  <img src="resources/cubes/wave.png" alt="GreenOps Logo" width="200"/>
+</p>
+
+<!-- ![cube](resources/cubes/player.png)
+![nave](resources/cubes/wave.png) -->
 ⚡ **Power-Ups:** _Portales de cambio de gravedad, aceleradores, plataformas de salto._
 
-![gravityDown](resources/portals/gravityDown.png) ![gravityUp](resources/portals/gravityUp.png)
+<p align="center">
+  <img src="resources/portals/gravityDown.png" alt="GreenOps Logo" width="150"/>
+  <img src="resources/portals/gravityUp.png" alt="GreenOps Logo" width="150"/>
+</p>
 
-![portalCube](resources/portals/portalCube.png)![portalWave](resources/portals/portalWave.png)
+<p align="center">
+  <img src="resources/portals/portalCube.png" alt="GreenOps Logo" width="150"/>
+  <img src="resources/portals/portalWave.png" alt="GreenOps Logo" width="150"/>
+</p>
 
-![blueJumpRing](resources/rings/blueJumpRing.png)![yellowJumpRing](resources/rings/yellowJumpRing.png)
+<p align="center">
+  <img src="resources/rings/blueJumpRing.png" alt="GreenOps Logo" width="150"/>
+  <img src="resources/rings/yellowJumpRing.png" alt="GreenOps Logo" width="150"/>
+</p>
 
-![blueStool](resources/stools/blueStool.png)![yellowStool](resources/stools/yellowStool.png)
+<p align="center">
+  <img src="resources/stools/blueStool.png" alt="GreenOps Logo" width="150"/>
+  <img src="resources/stools/yellowStool.png" alt="GreenOps Logo" width="150"/>
+</p>
+
+<!-- ![gravityDown](resources/portals/gravityDown.png) ![gravityUp](resources/portals/gravityUp.png) -->
+
+<!-- ![portalCube](resources/portals/portalCube.png)![portalWave](resources/portals/portalWave.png) -->
+
+<!-- ![blueJumpRing](resources/rings/blueJumpRing.png)![yellowJumpRing](resources/rings/yellowJumpRing.png) -->
+
+<!-- ![blueStool](resources/stools/blueStool.png)![yellowStool](resources/stools/yellowStool.png) -->
 
 ---
 
@@ -129,8 +176,20 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 
 _No hay enemigos directos, los obstáculos son los principales desafíos._  
 
-![obstacle](resources/obstacles/obstacle.png) ![obstacle4](resources/obstacles/obstacle4.png) ![obstacle3](resources/obstacles/obstacle3.png) ![obstacle2](resources/obstacles/obstacle2.png)
-![obstacleBall](resources/obstacles/obstacleBall.png) ![obstacleRing](resources/obstacles/obstacleRing.png)
+<p align="center">
+  <img src="resources/obstacles/obstacle.png" alt="Obstacle 1" width="100"/>
+  <img src="resources/obstacles/obstacle4.png" alt="Obstacle 4" width="100"/>
+  <img src="resources/obstacles/obstacle3.png" alt="Obstacle 3" width="100"/>
+  <img src="resources/obstacles/obstacle2.png" alt="Obstacle 2" width="100"/>
+
+</p>
+<p align="center">>
+  <img src="resources/obstacles/obstacleBall.png" alt="Obstacle Ball" width="250"/>
+  <img src="resources/obstacles/obstacleRing.png" alt="Obstacle Ring" width="250"/>
+</p>
+
+<!-- ![obstacle](resources/obstacles/obstacle.png) ![obstacle4](resources/obstacles/obstacle4.png) ![obstacle3](resources/obstacles/obstacle3.png) ![obstacle2](resources/obstacles/obstacle2.png)
+![obstacleBall](resources/obstacles/obstacleBall.png) ![obstacleRing](resources/obstacles/obstacleRing.png) -->
 
 ### 👹 Jefes
 

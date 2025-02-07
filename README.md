@@ -46,7 +46,7 @@ _El jugador controla un cubo que avanza automáticamente a través de niveles ll
 - 📈 **Progresión del Personaje:** _No hay progresión de personaje, solo habilidades del jugador._
 - 🎯 **Dificultad Progresiva:** _Los niveles son cada vez más desafiantes y requieren reflejos más precisos._
 
-![dificultades](image.png)
+![dificultades](resources/dificultades.png)
 
 - 🔄 **Sistemas de Juego:** _Sistema de niveles, logros y recompensas._
 
@@ -183,7 +183,7 @@ _No hay enemigos directos, los obstáculos son los principales desafíos._
   <img src="resources/obstacles/obstacle2.png" alt="Obstacle 2" width="100"/>
 
 </p>
-<p align="center">>
+<p align="center">
   <img src="resources/obstacles/obstacleBall.png" alt="Obstacle Ball" width="250"/>
   <img src="resources/obstacles/obstacleRing.png" alt="Obstacle Ring" width="250"/>
 </p>

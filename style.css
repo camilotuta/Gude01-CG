@@ -117,51 +117,6 @@ body {
   -o-transform: translateY(2px);
 }
 
-#tituloJuego {
-  font-family: "Arial Black", sans-serif;
-  font-size: 80px;
-  text-transform: uppercase;
-  color: #ffffff;
-  text-shadow: -3px -3px 0 #000000, 3px -3px 0 #000000, -3px 3px 0 #000000,
-    3px 3px 0 #000000, 0 0 10px #c701a0, 0 0 20px #c701a0;
-  letter-spacing: 3px;
-  margin: 20px 0;
-  padding: 10px;
-  border-radius: 10px;
-  animation: gradientAnimation 5s ease infinite, pulse 2s infinite;
-}
-
-@keyframes gradientAnimation {
-  0% {
-    background-position: 0% 50%;
-  }
-
-  50% {
-    background-position: 100% 50%;
-  }
-
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-/* Efecto de pulso en el texto */
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-    text-shadow: 0 0 10px #c701a0, 0 0 20px #ff3366, 0 0 30px #00bfff, 0 0 40px #ffcc00;
-  }
-
-  50% {
-    transform: scale(1.1);
-    text-shadow: 0 0 20px #c701a0, 0 0 30px #ff3366, 0 0 40px #00bfff, 0 0 50px #ffcc00;
-  }
-
-  100% {
-    transform: scale(1);
-    text-shadow: 0 0 10px #c701a0, 0 0 20px #ff3366, 0 0 30px #00bfff, 0 0 40px #ffcc00;
-  }
-}
 
 .progress-wrapper {
   position: relative;

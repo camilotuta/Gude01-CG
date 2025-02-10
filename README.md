@@ -5,10 +5,7 @@
 ## <!-- https://en.namu.wiki/w/Geometry%20Dash/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EB%9E%8C -->
 
 <p align="center">
-  <img src="resources/icon.png" alt="GreenOps Logo" width="200"/>
-</p>
-<p align="center">
-  <img src="resources/logo.png" alt="GreenOps Logo" width="800"/>
+  <img src="resources/logo.jpg" alt="GreenOps Logo" width="300"/>
 </p>
 
 <!-- ![icon](resources/icon.png)
